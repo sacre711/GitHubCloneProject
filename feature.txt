@@ -4,3 +4,4 @@ a
 new
 feature.
 This is a new feature.
+Can't change branch or doesn't exist
